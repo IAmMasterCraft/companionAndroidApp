@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Companion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="virtualCard">VIRTUAL ID CARD</string>
+    <string name="cgpa">CGPA CALCULATOR</string>
+    <string name="tma">QUESTION LIST</string>
+    <string name="image_chooser">File Chooser</string>
+    <string name="msg_file_downloaded">NOUN_ID_CARD_ downloaded...</string>
+    <string name="error_downloading">ID Card could not be downloaded!</string>
+</resources>
